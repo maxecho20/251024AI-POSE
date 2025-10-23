@@ -1,0 +1,5 @@
+{
+  "name": "AI Pose Transfer Studio",
+  "description": "Upload a photo of a person and select a pose template. The AI will generate a new image with the person from your photo adopting the selected pose, while keeping the original background and clothing intact.",
+  "requestFramePermissions": []
+}
